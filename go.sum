@@ -26,6 +26,8 @@ contrib.go.opencensus.io/exporter/ocagent v0.4.12/go.mod h1:450APlNTSR6FrvC3CTRq
 dmitri.shuralyov.com/gpu/mtl v0.0.0-20190408044501-666a987793e9/go.mod h1:H6x//7gZCb22OMCxBHrMx7a5I7Hp++hsVxbQ4BYO7hU=
 git.imooc.com/coding-535/common v0.0.0-20211109033740-848962d2b28a h1:LkgehZntDMPO2CSBWWSGK5fR/hMqEjhfT2wy0eKUFPg=
 git.imooc.com/coding-535/common v0.0.0-20211109033740-848962d2b28a/go.mod h1:zIpOe28FLRAyjLWvoRnsKkqL5QgIzwiV5Rd8JACQh74=
+git.imooc.com/coding-535/common v0.0.0-20220913123407-af94ee6eb5c3 h1:UZjPmdfOXNHhTKDBf0JGjL/bi3+h9o6yrX24oT8QD9A=
+git.imooc.com/coding-535/common v0.0.0-20220913123407-af94ee6eb5c3/go.mod h1:cf9sKvzYKySwyINlIPXTWOKEX5VfSEwhq9qOp1uJkFU=
 git.imooc.com/coding-535/svc v0.0.0-20220518151327-3bf128455782 h1:sBArPH27yv9UipM2TMaZz30zo6DGZdk0nE/N4AS47Ao=
 git.imooc.com/coding-535/svc v0.0.0-20220518151327-3bf128455782/go.mod h1:kLWkPnk5ermGZ7c5MpIkFc61cuHI7eGXxQhSpfexSwo=
 github.com/Azure/azure-sdk-for-go v32.4.0+incompatible/go.mod h1:9XXNKU+eRnpl9moKnB4QOLf1HestfXbmab5FXxiDBjc=
